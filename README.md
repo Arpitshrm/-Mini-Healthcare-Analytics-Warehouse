@@ -14,8 +14,6 @@ The database models core clinical concepts:
 
 ### Entity‑Relationship Diagram
 
-> Export your ERD as `assets/erd.png` and it will render here.
-
 ![Healthcare ERD](erd.png)
 
 ---
