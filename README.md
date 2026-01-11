@@ -16,7 +16,7 @@ The database models core clinical concepts:
 
 > Export your ERD as `assets/erd.png` and it will render here.
 
-![Healthcare ERD](assets/erd.png)
+![Healthcare ERD](erd.png)
 
 ---
 
