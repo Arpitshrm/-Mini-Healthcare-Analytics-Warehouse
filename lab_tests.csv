@@ -1,0 +1,5 @@
+Lab Test ID,Test Code,Test Name,Unit,Normal Min,Normal Max
+1,HBA1C,Hemoglobin A1c,%,4,6
+2,LDL,LDL Cholesterol,mg/dL,0,130
+3,SBP,Systolic Blood Pressure,mmHg,90,140
+4,DBP,Diastolic Blood Pressure,mmHg,60,90
